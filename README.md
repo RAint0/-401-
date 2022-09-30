@@ -11,7 +11,12 @@ return0;
  }
 </stdio.h>
 ```
-在线预览文章连接(显示并不完美)：
+
+github pages链接：[https://raint0.github.io/401/](https://raint0.github.io/401/)
+
+github仓库链接: [https://github.com/RAint0/401/](https://github.com/RAint0/401/)
+
+在线预览文章链接(显示并不完美)：
 
 1. [今天我们成立了！](https://raint0.github.io/401/今天我们成立了！.html)
 2. [更酷，现在开始](https://raint0.github.io/401/更酷，现在开始.html)
