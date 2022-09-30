@@ -24,3 +24,9 @@ return0;
 9. [入总统府，溯流金陵](https://raint0.github.io/401/入总统府，溯流金陵.html)
 10. [书中有珍知行合一领悟青春时代使命主题云课](https://raint0.github.io/401/书中有珍知行合一领悟青春时代使命主题云课.html)
 11. [团日活动红色放映厅遵义会议](https://raint0.github.io/401/团日活动红色放映厅遵义会议.html)
+
+本地下载连接：
+
+[mhtml-单文件版本](https://github.com/RAint0/401/releases/tag/untagged-eb9d71c73f03da6ff02c)
+
+[html-包含images版本](
