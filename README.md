@@ -27,6 +27,6 @@ return0;
 
 本地下载连接：
 
-[mhtml-单文件版本](https://github.com/RAint0/401/releases/tag/untagged-eb9d71c73f03da6ff02c)
+[mhtml-单文件版本](https://github.com/RAint0/401/releases/tag/html_version)
 
-[html-包含images版本](
+[html-包含images版本](https://github.com/RAint0/401/releases/tag/html_version)
