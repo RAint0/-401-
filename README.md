@@ -9,7 +9,6 @@ int main()
  printf("欢迎关注石榴401的故事\n");
 return0;
  }
-</stdio.h>
 ```
 
 github pages链接：[https://raint0.github.io/401/](https://raint0.github.io/401/)
