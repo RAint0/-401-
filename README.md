@@ -1,5 +1,6 @@
-# 401
-属于19级南航石榴401的公众号注销了。这里是公众号墓地。
+# 石榴401
+
+> 属于19级南航石榴401的公众号注销了。这里是公众号墓地。
 
 ```
 #include<stdio.h>
@@ -10,12 +11,13 @@ int main()
 return0;
  }
 ```
+## 常用链接
 
 github pages链接：[https://raint0.github.io/401/](https://raint0.github.io/401/)
 
 github仓库链接: [https://github.com/RAint0/401/](https://github.com/RAint0/401/)
 
-在线预览文章链接(显示并不完美)：
+## 在线预览文章链接(显示并不完美)：
 
 1. [今天我们成立了！](https://raint0.github.io/401/今天我们成立了！.html)
 2. [更酷，现在开始](https://raint0.github.io/401/更酷，现在开始.html)
@@ -29,7 +31,7 @@ github仓库链接: [https://github.com/RAint0/401/](https://github.com/RAint0/4
 10. [书中有珍知行合一领悟青春时代使命主题云课](https://raint0.github.io/401/书中有珍知行合一领悟青春时代使命主题云课.html)
 11. [团日活动红色放映厅遵义会议](https://raint0.github.io/401/团日活动红色放映厅遵义会议.html)
 
-本地下载连接：
+## 本地下载连接：
 
 [mhtml-单文件版本](https://github.com/RAint0/401/releases/tag/html_version)
 
